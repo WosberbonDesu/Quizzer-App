@@ -4,6 +4,7 @@ Due to the problems that may occur while loading the json files, first check the
 You can go to the settings page thanks to the button in the drawer section.
 I did not function for the buttons in the drawer section because I did not need it, except one, it is the lowest button.
 
+To get random questions, you need to add the code below to the quiz page.
 
 
 ```python
@@ -24,6 +25,12 @@ var random_array;
 
 
    var random_array = [1, 6, 7, 2, 4, 10, 8, 3, 9, 5];
+```
+This code shows where you need to activate and deactivate static lines if you do not want to make it dynamic.
+
+```python
+debugPrint(mydata[2]["1"] + " is equal to " + mydata[1]["1"][k]);
+
 ```
  Flutter Quiz app 
 ![a](https://user-images.githubusercontent.com/69467096/117134413-3af54780-adae-11eb-8b5b-805a77f5f283.jpeg)
