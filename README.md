@@ -1,8 +1,8 @@
 # Quizzer-App
  Flutter Quiz app 
-![a](https://user-images.githubusercontent.com/69467096/117134072-c6220d80-adad-11eb-9595-8c9c39f29024.jpeg)
-![b](https://user-images.githubusercontent.com/69467096/117134074-c6baa400-adad-11eb-9ce1-8df376e875c7.jpeg)
-![c](https://user-images.githubusercontent.com/69467096/117134077-c7ebd100-adad-11eb-97a4-20e15d98ce1c.jpeg)
-![d](https://user-images.githubusercontent.com/69467096/117134078-c8846780-adad-11eb-9374-f0ad7f0dce35.jpeg)
-![e](https://user-images.githubusercontent.com/69467096/117134081-c8846780-adad-11eb-896d-e9aeb8392945.jpeg)
-![f](https://user-images.githubusercontent.com/69467096/117134085-c9b59480-adad-11eb-8c68-dcdde983f5b6.jpeg)
+![a](https://user-images.githubusercontent.com/69467096/117134413-3af54780-adae-11eb-8b5b-805a77f5f283.jpeg)
+![b](https://user-images.githubusercontent.com/69467096/117134415-3b8dde00-adae-11eb-8428-8ae4f703dcc9.jpeg)
+![c](https://user-images.githubusercontent.com/69467096/117134417-3cbf0b00-adae-11eb-83a2-7457fad38935.jpeg)
+![d](https://user-images.githubusercontent.com/69467096/117134420-3d57a180-adae-11eb-9e5d-c0fcc7c95320.jpeg)
+![e](https://user-images.githubusercontent.com/69467096/117134424-3df03800-adae-11eb-800e-edea5554e722.jpeg)
+![f](https://user-images.githubusercontent.com/69467096/117134426-3e88ce80-adae-11eb-897f-3c19278f7e75.jpeg)
