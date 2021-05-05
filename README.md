@@ -3,7 +3,26 @@ In this project, the exam application was carried out using json files.
 Due to the problems that may occur while loading the json files, first check the files according to whether they are empty or not, then if not again, turn the emulator off and on again.
 You can go to the settings page thanks to the button in the drawer section.
 I did not function for the buttons in the drawer section because I did not need it, except one, it is the lowest button.
+'''dart
+    var random_array;
+     var distinctIds = [];
+     var rand = new Random();
+       for (int i = 0; ;) {
+       distinctIds.add(rand.nextInt(10));
+         random_array = distinctIds.toSet().toList();
+         if(random_array.length < 10){
+           continue;
+         }else{
+           break;
+         }
+       }
+     print(random_array);
 
+  // ----- END OF CODE
+  // var random_array = [1, 6, 7, 2, 4, 10, 8, 3, 9, 5];
+
+
+'''
  Flutter Quiz app 
 ![a](https://user-images.githubusercontent.com/69467096/117134413-3af54780-adae-11eb-8b5b-805a77f5f283.jpeg)
 ![b](https://user-images.githubusercontent.com/69467096/117134415-3b8dde00-adae-11eb-8428-8ae4f703dcc9.jpeg)
